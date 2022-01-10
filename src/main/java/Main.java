@@ -11,6 +11,7 @@ public class Main {
         System.out.println("please enter a choose an option 1/2 ");
         System.out.println("1. dollars to shekels");
         System.out.println("2. shekels to dollars");
+        System.out.println("3. shekels to euros");
         Scanner s1 = new Scanner("1");
         System.out.println("please enter amount to convert");
         Scanner s2 = new Scanner("10");
