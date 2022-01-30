@@ -1,3 +1,5 @@
+package Coin;
+
 public abstract class EURO extends Coin {
     private final double value = 4.23;
 

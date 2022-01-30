@@ -1,3 +1,5 @@
+package Coin;
+
 public class CoinFactory {
     public static ILS getCoinInstance(Coins coin){
         switch (coin){
